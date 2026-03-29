@@ -1,0 +1,12 @@
+E:\Kim An\EcommerceWeb\Backend\Ecommerce_Backend\Ecommerce.Domain\bin\Debug\net10.0\Ecommerce.Domain.deps.json
+E:\Kim An\EcommerceWeb\Backend\Ecommerce_Backend\Ecommerce.Domain\bin\Debug\net10.0\Ecommerce.Domain.dll
+E:\Kim An\EcommerceWeb\Backend\Ecommerce_Backend\Ecommerce.Domain\bin\Debug\net10.0\Ecommerce.Domain.pdb
+E:\Kim An\EcommerceWeb\Backend\Ecommerce_Backend\Ecommerce.Domain\obj\Debug\net10.0\Ecommerce.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Kim An\EcommerceWeb\Backend\Ecommerce_Backend\Ecommerce.Domain\obj\Debug\net10.0\Ecommerce.Domain.AssemblyInfoInputs.cache
+E:\Kim An\EcommerceWeb\Backend\Ecommerce_Backend\Ecommerce.Domain\obj\Debug\net10.0\Ecommerce.Domain.AssemblyInfo.cs
+E:\Kim An\EcommerceWeb\Backend\Ecommerce_Backend\Ecommerce.Domain\obj\Debug\net10.0\Ecommerce.Domain.csproj.CoreCompileInputs.cache
+E:\Kim An\EcommerceWeb\Backend\Ecommerce_Backend\Ecommerce.Domain\obj\Debug\net10.0\Ecommerce.Domain.sourcelink.json
+E:\Kim An\EcommerceWeb\Backend\Ecommerce_Backend\Ecommerce.Domain\obj\Debug\net10.0\Ecommerce.Domain.dll
+E:\Kim An\EcommerceWeb\Backend\Ecommerce_Backend\Ecommerce.Domain\obj\Debug\net10.0\refint\Ecommerce.Domain.dll
+E:\Kim An\EcommerceWeb\Backend\Ecommerce_Backend\Ecommerce.Domain\obj\Debug\net10.0\Ecommerce.Domain.pdb
+E:\Kim An\EcommerceWeb\Backend\Ecommerce_Backend\Ecommerce.Domain\obj\Debug\net10.0\ref\Ecommerce.Domain.dll

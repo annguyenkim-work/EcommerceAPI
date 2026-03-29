@@ -1,5 +1,11 @@
+using Ecommerce.Infrastructure;
+
 var builder = WebApplication.CreateBuilder(args);
 
+builder.Services.AddInfrastructure(
+    builder.Configuration.GetConnectionString("DefaultConnection")!,
+    builder.Configuration.GetConnectionString("Redis")!
+);
 // Add services to the container.
 
 builder.Services.AddControllers();

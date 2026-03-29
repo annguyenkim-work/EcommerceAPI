@@ -59,9 +59,17 @@
               "target": "Package",
               "version": "[12.1.1, )"
             },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[12.1.1, )"
+            },
             "MediatR": {
               "target": "Package",
               "version": "[14.1.0, )"
+            },
+            "StackExchange.Redis": {
+              "target": "Package",
+              "version": "[2.12.1, )"
             }
           },
           "imports": [
