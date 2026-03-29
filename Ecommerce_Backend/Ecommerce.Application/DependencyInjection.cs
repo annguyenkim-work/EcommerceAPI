@@ -1,4 +1,6 @@
-﻿using FluentValidation;
+﻿using Ecommerce.Application.Common.Behaviors;
+using FluentValidation;
+using MediatR;
 using Microsoft.Extensions.DependencyInjection;
 using System.Reflection;
 
@@ -14,7 +16,7 @@ namespace Ecommerce.Application
             services.AddValidatorsFromAssembly(Assembly.GetExecutingAssembly());
 
             // Validation Pipeline
-            // services.AddTransient(typeof(IPipelineBehavior<,>), typeof(ValidationBehavior<,>));
+            services.AddTransient(typeof(IPipelineBehavior<,>), typeof(ValidationBehavior<,>));
             return services;
         }
 

@@ -1,4 +1,5 @@
-﻿using Ecommerce.Infrastructure.Persistence;
+﻿using Ecommerce.Domain.Interfaces;
+using Ecommerce.Infrastructure.Persistence;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 using StackExchange.Redis;
@@ -20,6 +21,7 @@ namespace Ecommerce.Infrastructure
             services.AddSingleton<IConnectionMultiplexer>(sp =>
                 ConnectionMultiplexer.Connect(redisString));
 
+            services.AddScoped<IUnitOfWork, UnitOfWork>();
             return services;
         }
     }
